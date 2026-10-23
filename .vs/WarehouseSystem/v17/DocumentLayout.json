@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\WarehouseSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7472DC-36A5-4E9A-94F4-FD0002E09433}|WarehouseSystem.csproj|c:\\users\\user\\source\\repos\\warehousesystem\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7472DC-36A5-4E9A-94F4-FD0002E09433}|WarehouseSystem.csproj|solutionrelative:phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7472DC-36A5-4E9A-94F4-FD0002E09433}|WarehouseSystem.csproj|c:\\users\\user\\source\\repos\\warehousesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7472DC-36A5-4E9A-94F4-FD0002E09433}|WarehouseSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7472DC-36A5-4E9A-94F4-FD0002E09433}|WarehouseSystem.csproj|c:\\users\\user\\source\\repos\\warehousesystem\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7472DC-36A5-4E9A-94F4-FD0002E09433}|WarehouseSystem.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7472DC-36A5-4E9A-94F4-FD0002E09433}|WarehouseSystem.csproj|c:\\users\\user\\source\\repos\\warehousesystem\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7472DC-36A5-4E9A-94F4-FD0002E09433}|WarehouseSystem.csproj|solutionrelative:laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7472DC-36A5-4E9A-94F4-FD0002E09433}|WarehouseSystem.csproj|c:\\users\\user\\source\\repos\\warehousesystem\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7472DC-36A5-4E9A-94F4-FD0002E09433}|WarehouseSystem.csproj|solutionrelative:warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7472DC-36A5-4E9A-94F4-FD0002E09433}|WarehouseSystem.csproj|c:\\users\\user\\source\\repos\\warehousesystem\\idiscountable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7472DC-36A5-4E9A-94F4-FD0002E09433}|WarehouseSystem.csproj|solutionrelative:idiscountable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WarehouseSystem\\Warehouse.cs",
+              "RelativeDocumentMoniker": "Warehouse.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WarehouseSystem\\Warehouse.cs",
+              "RelativeToolTip": "Warehouse.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T17:18:34.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WarehouseSystem\\Phone.cs",
+              "RelativeDocumentMoniker": "Phone.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WarehouseSystem\\Phone.cs",
+              "RelativeToolTip": "Phone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T17:02:55.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WarehouseSystem\\Laptop.cs",
+              "RelativeDocumentMoniker": "Laptop.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WarehouseSystem\\Laptop.cs",
+              "RelativeToolTip": "Laptop.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T16:55:56.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WarehouseSystem\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WarehouseSystem\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T16:41:21.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDiscountable.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WarehouseSystem\\IDiscountable.cs",
+              "RelativeDocumentMoniker": "IDiscountable.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WarehouseSystem\\IDiscountable.cs",
+              "RelativeToolTip": "IDiscountable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T16:40:13.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WarehouseSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WarehouseSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAvwDkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T16:38:57.052Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

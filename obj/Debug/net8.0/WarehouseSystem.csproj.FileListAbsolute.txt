@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\WarehouseSystem\bin\Debug\net8.0\WarehouseSystem.exe
+C:\Users\user\source\repos\WarehouseSystem\bin\Debug\net8.0\WarehouseSystem.deps.json
+C:\Users\user\source\repos\WarehouseSystem\bin\Debug\net8.0\WarehouseSystem.runtimeconfig.json
+C:\Users\user\source\repos\WarehouseSystem\bin\Debug\net8.0\WarehouseSystem.dll
+C:\Users\user\source\repos\WarehouseSystem\bin\Debug\net8.0\WarehouseSystem.pdb
+C:\Users\user\source\repos\WarehouseSystem\obj\Debug\net8.0\WarehouseSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\WarehouseSystem\obj\Debug\net8.0\WarehouseSystem.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\WarehouseSystem\obj\Debug\net8.0\WarehouseSystem.AssemblyInfo.cs
+C:\Users\user\source\repos\WarehouseSystem\obj\Debug\net8.0\WarehouseSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WarehouseSystem\obj\Debug\net8.0\WarehouseSystem.dll
+C:\Users\user\source\repos\WarehouseSystem\obj\Debug\net8.0\refint\WarehouseSystem.dll
+C:\Users\user\source\repos\WarehouseSystem\obj\Debug\net8.0\WarehouseSystem.pdb
+C:\Users\user\source\repos\WarehouseSystem\obj\Debug\net8.0\WarehouseSystem.genruntimeconfig.cache
+C:\Users\user\source\repos\WarehouseSystem\obj\Debug\net8.0\ref\WarehouseSystem.dll

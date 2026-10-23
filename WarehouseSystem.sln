@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarehouseSystem", "WarehouseSystem.csproj", "{CF7472DC-36A5-4E9A-94F4-FD0002E09433}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF7472DC-36A5-4E9A-94F4-FD0002E09433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF7472DC-36A5-4E9A-94F4-FD0002E09433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF7472DC-36A5-4E9A-94F4-FD0002E09433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF7472DC-36A5-4E9A-94F4-FD0002E09433}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97B96B55-E78A-41E4-B961-2074BADA877A}
+	EndGlobalSection
+EndGlobal
